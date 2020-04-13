@@ -1,0 +1,15 @@
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\bin\Debug\BlockchainMSSQL.dll.config
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\bin\Debug\BlockchainMSSQL.dll
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\bin\Debug\BlockchainMSSQL.pdb
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\bin\Debug\EntityFramework.dll
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\bin\Debug\EntityFramework.xml
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\obj\Debug\BlockchainMSSQL.Migrations.first.resources
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\obj\Debug\BlockchainMSSQL.Migrations.second.resources
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\obj\Debug\BlockchainMSSQL.Migrations.AddMoney.resources
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\obj\Debug\BlockchainMSSQL.csproj.GenerateResource.cache
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\obj\Debug\BlockchainMSSQL.csproj.CoreCompileInputs.cache
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\obj\Debug\BlockchainMSSQL.csproj.CopyComplete
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\obj\Debug\BlockchainMSSQL.dll
+C:\Users\LegendarHome\Desktop\new\BlockchainApp\BlockchainMSSQL\obj\Debug\BlockchainMSSQL.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainLibrary", "BlockchainLibrary\BlockchainLibrary.csproj", "{13D3AFD3-FC13-4B02-99E7-B108FF454D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainForm", "BlockchainForm\BlockchainForm.csproj", "{FF3490D3-3120-476D-8A0E-74D55424A444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainMSSQL", "BlockchainMSSQL\BlockchainMSSQL.csproj", "{3E1CC741-1BE0-4A25-A6BC-EC5A2AB1AA0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D3AFD3-FC13-4B02-99E7-B108FF454D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D3AFD3-FC13-4B02-99E7-B108FF454D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D3AFD3-FC13-4B02-99E7-B108FF454D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D3AFD3-FC13-4B02-99E7-B108FF454D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3490D3-3120-476D-8A0E-74D55424A444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3490D3-3120-476D-8A0E-74D55424A444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3490D3-3120-476D-8A0E-74D55424A444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3490D3-3120-476D-8A0E-74D55424A444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1CC741-1BE0-4A25-A6BC-EC5A2AB1AA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1CC741-1BE0-4A25-A6BC-EC5A2AB1AA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1CC741-1BE0-4A25-A6BC-EC5A2AB1AA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1CC741-1BE0-4A25-A6BC-EC5A2AB1AA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC97279-FF84-4D27-81CE-3A1F8A0D60B9}
+	EndGlobalSection
+EndGlobal
